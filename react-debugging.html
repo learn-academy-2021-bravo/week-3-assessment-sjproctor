@@ -53,9 +53,11 @@
           return(
             <>
               <h1>Draw a Card</h1>
+              {/* Hand was not passed into the component call */}
               <Card
                 drawCard={ this.drawCard }
                 shuffle={ this.shuffle }
+                hand={ this.state.hand }
               />
             </>
           )
@@ -80,10 +82,12 @@
           }
           return(
             <>
-              <button onClick={ }>
+              {/* Added the method call onClick */}
+              <button onClick={ this.props.drawCard }>
                 Click to Draw a Card
               </button>
-              <button onClick={ shuffle }>
+              {/* Updated the method call onClick */}
+              <button onClick={ this.props.shuffle }>
                 Return Cards and Shuffle Deck
               </button>
               <div style={ handStyles }>

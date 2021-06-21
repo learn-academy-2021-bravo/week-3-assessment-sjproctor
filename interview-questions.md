@@ -11,7 +11,8 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: Life cycle of a React component, process it goes through as the page renders - 1) mounting, 2) updating, 3) unmounting
+  Examples) render(), componentDidMount(), constructor(), setState()
 
 
 
@@ -19,7 +20,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: div is a block level element, span is an inline element
 
 
 
@@ -27,7 +28,8 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: Another way to write a conditional, operator that takes three operands (3 pieces)
+  condition ? true : false
 
 
 
@@ -35,7 +37,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: Information passed from a higher component to a lower component, method (behavior) or state (static data)
 
 
 
@@ -43,7 +45,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: A reference to a method or variable belonging to the class or object
 
 
 
@@ -51,7 +53,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: Function without a name, functions called using the variable name
 
 
 
@@ -59,18 +61,18 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: Your app will still look good and function well no matter the screen size or orientation, media queries, grid, flexbox, rem/vh/vw/%
 
 
 
 ## Looking Ahead: Terms for Next Week
 
-1. Ruby:
+1. Ruby: Programming language for building web apps
 
-2. Object oriented programming:
+2. Object oriented programming: OOP, programming based on the idea of objects
 
-3. RSpec:
+3. RSpec: Testing framework for Ruby
 
-4. Ruby blocks:
+4. Ruby blocks: Anonymous functions passed to methods
 
-5. Ruby hashes:
+5. Ruby hashes: Collection of key value pairs
